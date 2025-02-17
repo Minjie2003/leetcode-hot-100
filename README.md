@@ -1,1 +1,2 @@
-"这是我使用c++复现hot100的笔记" 
+- 力扣hot100题目连接 <[LeetCode 热题 100 - 学习计划 - 力扣（LeetCode）全球极客挚爱的技术成长平台](https://leetcode.cn/studyplan/top-100-liked/)>
+- 参考了诸多官方题解，权当是本人对于c++语法的复习注解以及探寻解题思路吧
